@@ -1,0 +1,15 @@
+/home/luana/Documentos/GitHub/tes-2026/aula04/bin/Debug/net8.0/tes-2026
+/home/luana/Documentos/GitHub/tes-2026/aula04/bin/Debug/net8.0/tes-2026.deps.json
+/home/luana/Documentos/GitHub/tes-2026/aula04/bin/Debug/net8.0/tes-2026.runtimeconfig.json
+/home/luana/Documentos/GitHub/tes-2026/aula04/bin/Debug/net8.0/tes-2026.dll
+/home/luana/Documentos/GitHub/tes-2026/aula04/bin/Debug/net8.0/tes-2026.pdb
+/home/luana/Documentos/GitHub/tes-2026/aula04/obj/Debug/net8.0/tes-2026.GeneratedMSBuildEditorConfig.editorconfig
+/home/luana/Documentos/GitHub/tes-2026/aula04/obj/Debug/net8.0/tes-2026.AssemblyInfoInputs.cache
+/home/luana/Documentos/GitHub/tes-2026/aula04/obj/Debug/net8.0/tes-2026.AssemblyInfo.cs
+/home/luana/Documentos/GitHub/tes-2026/aula04/obj/Debug/net8.0/tes-2026.csproj.CoreCompileInputs.cache
+/home/luana/Documentos/GitHub/tes-2026/aula04/obj/Debug/net8.0/tes-2026.sourcelink.json
+/home/luana/Documentos/GitHub/tes-2026/aula04/obj/Debug/net8.0/tes-2026.dll
+/home/luana/Documentos/GitHub/tes-2026/aula04/obj/Debug/net8.0/refint/tes-2026.dll
+/home/luana/Documentos/GitHub/tes-2026/aula04/obj/Debug/net8.0/tes-2026.pdb
+/home/luana/Documentos/GitHub/tes-2026/aula04/obj/Debug/net8.0/tes-2026.genruntimeconfig.cache
+/home/luana/Documentos/GitHub/tes-2026/aula04/obj/Debug/net8.0/ref/tes-2026.dll

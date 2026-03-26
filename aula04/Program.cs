@@ -9,7 +9,7 @@ public class Carro{
     public bool estado;
 
     public void exibir(){
-         Console.WriteLine($"Fabricante: {fabricante}\nModelo: {modelo}\nCor: {cor}\nAro: {aro}\nAno: {ano}\n");
+         Console.WriteLine($"Fabricante: {fabricante}\nModelo: {modelo}\nCor: {cor}\nAro: {aro}\nAno: {ano}");
     }
 
     public void ligar(){
@@ -27,24 +27,24 @@ public class Livro{
     public bool disponivel;
 
     public void exibir(){
-         Console.WriteLine($"Título: {titulo}\nAno: {ano}\nDisponível: {disponivel}\n");
+         Console.WriteLine($"Título: {titulo}\nAno: {ano}\nDisponível: {disponivel}");
     }
 
      public void emprestar(){
         if(disponivel){
             disponivel = false;
-         Console.WriteLine($"Livro {titulo} emprestado com sucesso!");
+         Console.WriteLine($"Livro '{titulo}' emprestado com sucesso!");
         }else{
-            Console.WriteLine($"Livro {titulo} não está disponível!");
+            Console.WriteLine($"Livro '{titulo}' não está disponível!");
         }
     }
 
      public void devolver(){
         if(!disponivel){
             disponivel = true;
-         Console.WriteLine($"Livro {titulo} devolvido com sucesso!");
+         Console.WriteLine($"Livro '{titulo}' devolvido com sucesso!");
         }else{
-             Console.WriteLine($"Livro {titulo} não é possível pois já está devolvido!");
+             Console.WriteLine($"Livro '{titulo}' não é possível pois já está devolvido!");
         }
     }
 }
@@ -75,7 +75,10 @@ public class Program{
         l1.ano = 2014;
         l1.disponivel = false;
 
-        l1.exibir();
+
+        Livro[] biblioteca = new Livro[3];
+        biblioteca[0] = l1;
+        biblioteca[0].exibir();
         l1.emprestar();
     }
 

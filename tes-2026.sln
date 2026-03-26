@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "aula04", "aula04", "{AA9DB573-8FBF-AD2A-31C4-7133FA26FAF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tes-2026", "aula04\tes-2026.csproj", "{234810C8-2299-9DA4-126F-00729B4751A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{234810C8-2299-9DA4-126F-00729B4751A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234810C8-2299-9DA4-126F-00729B4751A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234810C8-2299-9DA4-126F-00729B4751A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234810C8-2299-9DA4-126F-00729B4751A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{234810C8-2299-9DA4-126F-00729B4751A8} = {AA9DB573-8FBF-AD2A-31C4-7133FA26FAF8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C46A2C42-259B-4A5C-B6AC-D0FDF85A9751}
+	EndGlobalSection
+EndGlobal
