@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/aula09_webApi.props" />
+</Project>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AINZpQPlptNUd6DDsgz6NXkbSTRuSlpLJWTjPYu8h9xve77G1DwowJvs/nECtVXY5jGtbtZx1VNUw0SJKDwqpQ==",
+  "dgSpecHash": "owa4/WIkGp9cS3Agw5DP4sJBAuf+wHmmCwA7jx8nxr0kE7hZUQLSw/HTJ1oUn9p5azZxxsiibaiImmch+mpjMg==",
   "success": true,
-  "projectFilePath": "/home/luana/Documentos/GitHub/tes-2026/aula04/tes-2026.csproj",
+  "projectFilePath": "/opt/lampp/htdocs/tes-2026/aula04/tes-2026.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
